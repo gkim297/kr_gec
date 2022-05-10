@@ -1,0 +1,11 @@
+﻿id,author_id,Region,is_native,gender,occupation,submission_type,source_language,annotator_id,partition,is_sensitive
+0,34fdde49,서울시,0,여성,회계사,text_donation,kr,1,train,0
+1,fc266628,부산시,1,남성,대학생,translation,kr,1,train,0
+2,3bff6cb6,남양주시,1,여성,대학생,essay,kr,1,train,0
+3,43dcd8a9,서울시,1,남성,교수,text_donation,en,1,test,0
+4,7896f51c,광주시,1,여성,군인,translation,kr,1,train,0
+5,530a649a,경주시,1,남성,새무사,essay,en,1,train,0
+6,446b08a9,서울시,1,남성,대학생,essay,en,1,test,0
+7,80f62b7f,인천시,0,여성,대학생,essay,kr,1,train,0
+8,22ce04b3,서울시,1,남성,증권 거래인,text_donation,kr,1,test,0
+9,664c8b34,광명시,1,여성,대학생,text_donation,en,1,train,0
